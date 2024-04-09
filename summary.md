@@ -1,8 +1,8 @@
 # Student Names 
-Henry Forsyth
+Ethan James, Eddie Pritchard
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+A scratch-built electronic drum set with realistic feel
 
 # Date Started
-11-16-2000
+3-1-2024
