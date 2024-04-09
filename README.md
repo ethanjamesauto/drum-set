@@ -1,3 +1,5 @@
+![](hero.png)
+
 ## Members
 Ethan James, Computer Engineering Student (2024)
 ethanjamesauto@vt.edu
