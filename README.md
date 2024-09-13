@@ -1,16 +1,13 @@
-![](hero.png)
-
+![](images/IMG_0991.jpg)
 ## Members
 Ethan James, Computer Engineering Student (2024)
 ethanjamesauto@vt.edu
 
 Henry Edward "Eddie" Pritchard, Computer Engineering Student (2024)
 
-## Mentor
-Eddie Pritchard
-
 ## Current Status
-IN PROGRESS
+* 2 drums completed - 1 with dual-piezo sensing and 1 with a single piezo
+* Completed kick drum trigger
 
 ## Project Overview
 
@@ -20,37 +17,7 @@ Electronic Drum set featuring piezo-triggered drum pads build from scratch. The 
 * Drum module - converts the raw sensor outputs from the drums into drum sounds
 * Drum set chassis and mounting hardware
 
-## Educational Value Added
+## Notes
+[Pad_10inch.svg](Pad_10inch.svg) is used for both drums I've built.
 
-
-## Tasks
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
-## Design Decisions
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
-## Design Misc
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
-## Steps for Documenting Your Design Process
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
-## BOM + Component Cost
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
-## Timeline
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
-## Useful Links
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
-## Log
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+The shells are built using [shell.scad](shell.scad)
