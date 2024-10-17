@@ -24,9 +24,6 @@ Features:
 * i2c headers for display (VCC, GND, SDA, SCL)
 * 8 gpios for numeric keypad
 
-TODO:
-* manually verify teensy pins (ADC pins)
-
 ### Drum Pads
 Materials:
   * Drum Shells
@@ -47,6 +44,9 @@ Notes:
 ### Mounting Hardware
 Rack will likely be a second-hand alesis e-drum rack
 
+TODO:
+* modify pcb to allow for optical hi hat sensor
+
 Tom mounts:
 *  [Alesis drum clamp mount](https://www.printables.com/model/244788-alesis-electronic-drum-clamp-mount) - these each require an Alesis L-rod
 * Modify this [Roland mount](https://open-e-drums.com/hardware/download_mount.html) to change the hole from 11mm (Roland) to 9mm (Alesis)
@@ -66,7 +66,13 @@ Ethan James, Computer Engineering Student (2024) -
 ethanjamesauto@vt.edu
 
 ## Images
-
+Drum module PCB:
+![](images/pcb.PNG)
 This is the prototype (Phase 1):
 ![](images/IMG_0991.jpg)
 
+## Drum pad notes
+* height from base plate is 47.5mm
+* Trigger cones are 35mm tall
+* Recommended height of trigger cone above shell is maybe 1.5mm or 1/16in
+* definitely use spacers (3d printed or some other plastic) to adjust height of plate
