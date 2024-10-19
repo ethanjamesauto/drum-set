@@ -6,7 +6,7 @@ import("Mount_Roland_12_noshell.stl");
 //*/
 
 inner = 9;
-outer = 13;
+outer = 13.5;
 h = 33;
 fn = 50;
 notch_w = 2;

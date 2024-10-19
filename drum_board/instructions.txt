@@ -1,0 +1,5 @@
+JLCPCB Ordering Instructions
+1. Please visit www.jlcpcb.com and select "Add gerber file"
+2. Select "gerbers.zip" in the file explorer popup, then press "Instant Quote".
+3. Leave all ordering options as their default values, except "PCB Color". For reference, the ordering options are contained in "options.png". Options that must be changed are circled in red.
+4. Please choose a shipping option other than "Global Standard Direct Line" unless unable to do otherwise.
