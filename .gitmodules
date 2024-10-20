@@ -1,0 +1,6 @@
+[submodule "edrumulus"]
+	path = edrumulus
+	url = https://github.com/corrados/edrumulus/
+[submodule "drums"]
+	path = drums
+	url = https://github.com/RyoKosaka/drums
