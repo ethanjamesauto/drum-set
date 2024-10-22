@@ -1,8 +1,8 @@
 // The inner diameter of the 3d printed roland mount is 12mm
 // the existing stl also uses an exactly 12mm hole
 //*
-translate([300, 0, 100]) 
-import("Mount_Roland_12_noshell.stl");
+translate([0-100, 0, 100]) 
+import("Mount_Roland_10_noshell.stl");
 //*/
 
 inner = 9+1; // the alesis rods are actually 10mm, not 9mm
@@ -12,8 +12,8 @@ fn = 50;
 notch_w = 2;
 notch_h = 20;
 
-translate([-25, 11.5, 0])
-translate([0, 0, -14.5])
+translate([5, 11.5, 0])
+translate([0, 0, -39.5])
 difference () {
 	cylinder(h, outer/2, outer/2, $fn=fn);
 	union() {
